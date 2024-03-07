@@ -1,1 +1,1 @@
-export const mapsApiKey = 'AIzaSyCG0reaUcDCHVPtzYQAZivgKt1jiiDxi3k';
+export const mapsApiKey = 'yourGoogleApiKey';
